@@ -1,0 +1,28 @@
+# Security Policy
+
+## Supported Versions
+
+The following versions of our project are currently being supported with security updates:
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 5.1.x   | :white_check_mark: |
+| 5.0.x   | :x:                |
+| 4.0.x   | :white_check_mark: |
+| < 4.0   | :x:                |
+
+## Reporting a Vulnerability
+
+If you discover a vulnerability in our project, we encourage you to report it to us so we can address it. Here's how you can do it:
+
+1. **Where to report**: Send your report via email to Ladydee241@outlook.com. Please do not report security vulnerabilities through public GitHub issues.
+
+2. **What to include in your report**: Please provide detailed steps to reproduce the vulnerability. Include screenshots and text descriptions as necessary.
+
+3. **Expect a response**: We strive to acknowledge receipt of vulnerability reports within 48 hours. 
+
+4. **Follow-up**: After our initial response, we will keep you informed about our progress towards resolving the issue. We may contact you for additional information.
+
+5. **Disclosure policy**: If the vulnerability is confirmed, we will coordinate a fix and plan a release. We will also publicly acknowledge your responsible disclosure.
+
+Please note, we appreciate your effort in reporting to us and we take all reports seriously. However, we can only accept vulnerability reports that pertain to supported versions as indicated above.
